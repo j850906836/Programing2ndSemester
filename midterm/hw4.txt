@@ -1,0 +1,4 @@
+apple 60
+banana 35
+orange 20
+lemon 45

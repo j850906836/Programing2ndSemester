@@ -1,0 +1,5 @@
+apple 60
+banana 35
+i_want_to_play_a_game? 12
+orange 20
+lemon 45

@@ -1,0 +1,5 @@
+orange 30
+apple 20
+candy 90
+banana 14
+juice 51

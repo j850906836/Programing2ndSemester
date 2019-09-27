@@ -1,0 +1,6 @@
+apple
+orange
+zoo
+-banana
+banana
+PRINT

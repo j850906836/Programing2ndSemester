@@ -1,0 +1,10 @@
++++++banana
+---banana
++apple
+-dog
++++green
++egg
+cat
++frog
+---egg
++apple
